@@ -1,0 +1,16 @@
+owner created a project in local machine 
+
+then followed the below steps
+
+open project folder in terminal 
+
+then create new file (i have created FirstTestingFile.txt)
+
+git init (to initialize the new git repo)
+
+then we have to add our file to staging area using the below command
+
+git add firsttestingfile  or git add * 
+
+
+
